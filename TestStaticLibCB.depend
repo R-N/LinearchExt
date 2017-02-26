@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1487955856 source:c:\users\mojomacw7\documents\teststaticlibcb\main.cpp
+	<cmath>
+
+1487955925 source:c:\users\mojomacw7\documents\teststaticlibcb\gameobject.cpp
+	<list>
+	"GameObject.hpp"
+	"Transform.hpp"
+	<typeinfo>
+
+1487953697 c:\users\mojomacw7\documents\teststaticlibcb\vector2.cpp
+	<cmath>
+	"Vector2.hpp"
+	"main.cpp"
+
+1487953697 source:c:\users\mojomacw7\documents\teststaticlibcb\vector2.cpp
+	<cmath>
+	"Vector2.hpp"
+	"main.cpp"
+
+1487953703 c:\users\mojomacw7\documents\teststaticlibcb\vector2.hpp
+	<cmath>
+
+1487955856 c:\users\mojomacw7\documents\teststaticlibcb\main.cpp
+	<cmath>
+
+1487953711 source:c:\users\mojomacw7\documents\teststaticlibcb\component.cpp
+	"GameObject.hpp"
+	"Component.hpp"
+
+1487952096 c:\users\mojomacw7\documents\teststaticlibcb\gameobject.cpp
+	<list>
+	"GameObject.hpp"
+	"Transform.hpp"
+
+1487956627 c:\users\mojomacw7\documents\teststaticlibcb\gameobject.hpp
+	<list>
+	"Component.hpp"
+
+1487956280 c:\users\mojomacw7\documents\teststaticlibcb\component.hpp
+
+1487953678 source:c:\users\mojomacw7\documents\teststaticlibcb\transform.cpp
+	"Vector2.cpp"
+	"GameObject.hpp"
+	"Transform.hpp"
+
+1487950710 c:\users\mojomacw7\documents\teststaticlibcb\transform.cpp
+	"Vector2.cpp"
+	"GameObject.cpp"
+	"Transform.hpp"
+
+1487956585 c:\users\mojomacw7\documents\teststaticlibcb\transform.hpp
+	"Vector2.cpp"
+
+1487954248 source:c:\users\mojomacw7\documents\teststaticlibcb\collider.cpp
+	"Collider.hpp"
+
+1487956366 c:\users\mojomacw7\documents\teststaticlibcb\collider.hpp
+	"Component.hpp"
+	"GameObject.hpp"
+	<list>
+
+1487953711 c:\users\mojomacw7\documents\teststaticlibcb\component.cpp
+	"GameObject.hpp"
+	"Component.hpp"
+
+1487954302 source:c:\users\mojomacw7\documents\teststaticlibcb\renderer.cpp
+	"Renderer.hpp"
+
+1487956462 c:\users\mojomacw7\documents\teststaticlibcb\renderer.hpp
+	"Component.hpp"
+	<list>
+	"GameObject.hpp"
+
+1487954407 source:c:\users\mojomacw7\documents\teststaticlibcb\camera.cpp
+	"Camera.hpp"
+
+1487954802 c:\users\mojomacw7\documents\teststaticlibcb\camera.hpp
+	"Component.hpp"
+
+1487954531 source:c:\users\mojomacw7\documents\teststaticlibcb\rigidbody.cpp
+	"Rigidbody.hpp"
+
+1487956559 c:\users\mojomacw7\documents\teststaticlibcb\rigidbody.hpp
+	"Component.hpp"
+	"Vector2.cpp"
+	<list>
+	"GameObject.hpp"
+	"Collider.hpp"
+
