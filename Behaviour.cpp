@@ -9,29 +9,29 @@ namespace LinearchExt{
         Component::Init(gameObject);
     }
 
-    void Awake(){
+    void Behaviour::Awake(){
     }
-    void Start(){
+    void Behaviour::Start(){
     }
-    void PreFixedUdpate(){
+    void Behaviour::PreFixedUdpate(){
     }
-    void FixedUpdate(){
+    void Behaviour::FixedUpdate(){
     }
-    void PostFixedUpdate(){
+    void Behaviour::PostFixedUpdate(){
     }
-    void PreCollisionUpdate(){
+    void Behaviour::PreCollisionUpdate(){
     }
-    void PostCollisionUpdate(){
+    void Behaviour::PostCollisionUpdate(){
     }
-    void PreUpdate(){
+    void Behaviour::PreUpdate(){
     }
-    void Update(){
+    void Behaviour::Update(){
     }
-    void PostUpdate(){
+    void Behaviour::PostUpdate(){
     }
-    void PreRenderUpdate(){
+    void Behaviour::PreRenderUpdate(){
     }
-    void PostRenderUpdate(){
+    void Behaviour::PostRenderUpdate(){
     }
 }
 

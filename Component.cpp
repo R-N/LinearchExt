@@ -16,9 +16,9 @@ namespace LinearchExt{
 
     void Component::OnDestroy(){
     }
-    void OnDisable(){
+    void Component::OnDisable(){
     }
-    void OnEnable(){
+    void Component::OnEnable(){
     }
 
     void Component::SetEnabled(bool enabled){
