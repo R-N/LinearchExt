@@ -317,3 +317,101 @@
 	<stdexcept>
 	"Misc.hpp"
 
+1649226825 source:d:\github\linearchext\camera.cpp
+	"Camera.hpp"
+
+1649226825 d:\github\linearchext\camera.hpp
+	"Component.hpp"
+
+1649226825 d:\github\linearchext\component.hpp
+	<string>
+	<iostream>
+
+1649226825 source:d:\github\linearchext\collider.cpp
+	"Collider.hpp"
+
+1649226825 d:\github\linearchext\collider.hpp
+	"Component.hpp"
+	"GameObject.hpp"
+	"Vector2.hpp"
+	<list>
+	"Physics.hpp"
+
+1649226825 d:\github\linearchext\gameobject.hpp
+	<list>
+	"Component.hpp"
+	<string>
+
+1649226825 d:\github\linearchext\vector2.hpp
+	<cmath>
+	<iostream>
+
+1649226825 d:\github\linearchext\physics.hpp
+	<cmath>
+	"Vector2.hpp"
+
+1649226825 source:d:\github\linearchext\component.cpp
+	"Misc.cpp"
+	"Transform.hpp"
+	"GameObject.hpp"
+	"Component.hpp"
+	"Collider.hpp"
+	"Renderer.hpp"
+	"Rigidbody.hpp"
+
+1649226825 d:\github\linearchext\misc.cpp
+	<cmath>
+	<stdexcept>
+	"Misc.hpp"
+
+1649226825 d:\github\linearchext\misc.hpp
+	<cmath>
+
+1649226825 d:\github\linearchext\transform.hpp
+	"Vector2.hpp"
+	"Component.hpp"
+	<vector>
+
+1649226825 d:\github\linearchext\renderer.hpp
+	"Component.hpp"
+	<list>
+	"GameObject.hpp"
+
+1649226825 d:\github\linearchext\rigidbody.hpp
+	"Component.hpp"
+	"Vector2.hpp"
+	<list>
+	"GameObject.hpp"
+	"Collider.hpp"
+
+1649226825 source:d:\github\linearchext\gameobject.cpp
+	<list>
+	"GameObject.hpp"
+	"Transform.hpp"
+	<typeinfo>
+	<stdexcept>
+	<string>
+	"Component.hpp"
+	"Collider.hpp"
+	"Rigidbody.hpp"
+	"Renderer.hpp"
+
+1649226825 source:d:\github\linearchext\renderer.cpp
+	"Renderer.hpp"
+	"GameObject.hpp"
+	"Transform.hpp"
+
+1649226825 source:d:\github\linearchext\rigidbody.cpp
+	"Rigidbody.hpp"
+
+1649226825 source:d:\github\linearchext\transform.cpp
+	"Vector2.hpp"
+	"GameObject.hpp"
+	"Transform.hpp"
+	<vector>
+
+1649226825 source:d:\github\linearchext\vector2.cpp
+	<cmath>
+	"Vector2.hpp"
+	"Misc.hpp"
+
