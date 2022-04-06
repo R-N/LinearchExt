@@ -52,11 +52,7 @@
 		<Unit filename="Transform.hpp" />
 		<Unit filename="Vector2.cpp" />
 		<Unit filename="Vector2.hpp" />
-		<Unit filename="main.cpp" />
 		<Extensions>
-			<code_completion />
-			<envvars />
-			<debugger />
 			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
